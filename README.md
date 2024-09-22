@@ -1,5 +1,8 @@
 
-![logo](https://github.com/SnehaBhaskar26/SnehaBhaskar26/blob/main/Banner.mp4)
+<video width="600" controls>
+  <source src="https://github.com/SnehaBhaskar26/SnehaBhaskar26/blob/main/Banner.mp4">
+  Your browser does not support the video tag.
+</video>
 <h1 align="center">Hi 👋, I'm Sneha Sanjaykumar Bhaskar</h1>
 <h3 align="center">Passionate Data Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*dI-o8H3i0w66SpK7.gif">
