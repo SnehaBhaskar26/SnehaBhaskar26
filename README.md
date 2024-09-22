@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Sanjaykumar Bhaskar</h1>
 <h3 align="center">Passionate Data Enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*dI-o8H3i0w66SpK7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehabhaskar26&label=Profile%20views&color=0e75b6&style=flat" alt="snehabhaskar26" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **bhaskarsneha2923@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qmMBpZkT5OsP8V69-zqAO5X3Y2WD0Ewa/view?usp=drive_link](https://drive.google.com/file/d/1qmMBpZkT5OsP8V69-zqAO5X3Y2WD0Ewa/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/1qmMBpZkT5OsP8V69-zqAO5X3Y2WD0Ewa/view?usp=drive_link](https://drive.google.com/file/d/1qmMBpZkT5OsP8V69-zqAO5X3Y2WD0Ewa/view?usp=drive_link)
 
 - ⚡ Fun fact **I love exploring new machine learning models and can talk endlessly about AI innovations!**
 
