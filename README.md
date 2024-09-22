@@ -1,18 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sneha Sanjaykumar Bhaskar</h1>
+<h3 align="center">Passionate Data Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehabhaskar26&label=Profile%20views&color=0e75b6&style=flat" alt="snehabhaskar26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/snehabhaskar111" target="blank"><img src="https://img.shields.io/twitter/follow/snehabhaskar111?logo=twitter&style=for-the-badge" alt="snehabhaskar111" /></a> </p>
 
 - 🔭 I’m currently working on **Upskilling my skills**
 
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science,SQL , PowerBI**
+
 - 📫 How to reach me **bhaskarsneha2923@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qmMBpZkT5OsP8V69-zqAO5X3Y2WD0Ewa/view?usp=drive_link](https://drive.google.com/file/d/1qmMBpZkT5OsP8V69-zqAO5X3Y2WD0Ewa/view?usp=drive_link)
+
+- ⚡ Fun fact **I love exploring new machine learning models and can talk endlessly about AI innovations!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/snehabhaskar111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehabhaskar111" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/snehabhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehabhaskar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bhaskar_sneha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhaskar_sneha/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/bhaskarsnrcya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bhaskarsnrcya/" height="30" width="40" /></a>
+<a href="https://kaggle.com/sneh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sneh26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhaskar_sneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaskar_sneha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
